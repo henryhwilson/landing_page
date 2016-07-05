@@ -16,6 +16,6 @@ URL to hosted page: http://hw1.henrywilson.me
 
 Screenshots of layout without CSS:
 
-![alt tag](screenshot_layout_1.png)
-
 ![alt tag](screenshot_layout_2.png)
+
+![alt tag](screenshot_layout_1.png)
