@@ -14,7 +14,7 @@ URL to GitHub repository: https://github.com/henryhwilson/landing_page
 
 URL to hosted page: http://hw1.henrywilson.me
 
-Screenshots of layout without CSS:
+Screenshots of layout without CSS: (Note, there are two screenshots below so it looks janky together)
 
 ![alt tag](screenshot_layout_2.png)
 
