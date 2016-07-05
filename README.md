@@ -11,8 +11,11 @@ I added a lot of interesting styling such as:
 In addition, I used a width of 790px to distinguish between desktop and mobile, since the nav bar didn't fit with widths less than 790px. I did not use 640px as was described in the HW1 instructions.
 
 URL to GitHub repository: https://github.com/henryhwilson/landing_page
+
 URL to hosted page: http://hw1.henrywilson.me
 
 Screenshots of layout without CSS:
-![alt tag]("screenshot_layout_1.png")
-![alt tag]("screenshot_layout_2.png")
+
+![alt tag](screenshot_layout_1.png)
+
+![alt tag](screenshot_layout_2.png)
